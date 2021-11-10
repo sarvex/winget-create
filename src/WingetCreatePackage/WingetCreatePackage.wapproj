@@ -65,6 +65,7 @@
     <Content Include="Images\StoreLogo.scale-200.png" />
     <Content Include="Images\StoreLogo.scale-400.png" />
     <Content Include="Images\Wide310x150Logo.scale-200.png" />
+    <Content Include="wingetcreate.appinstaller" />
   </ItemGroup>
   <Import Project="$(WapProjPath)\Microsoft.DesktopBridge.targets" />
 </Project>
